@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@zakj/no-sleep": "^0.13.5",
     "nosleep.js": "^0.12.0"
   }
 }
